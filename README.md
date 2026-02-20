@@ -5,6 +5,7 @@ This is the official implementation of the paper "RelPosGAR: Hierarchical Relati
 If you find our work or the codebase inspiring and useful to your research, please consider ⭐starring⭐ the repo and citing:
 ```bibtex
 @article{RelPosGAR,
+author = {Lindong Li and Linbo Qing and Liuyi Tao and Pingyu Wang and Honggang Chen and Owen Noel Newton Fernando and Weisi Lin},
 title = {RelPosGAR: Hierarchical relative position-aware interaction modeling for weakly supervised skeleton-based group activity recognition},
 journal = {Pattern Recognition},
 volume = {176},
