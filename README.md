@@ -2,6 +2,14 @@
 This is the official implementation of the paper "RelPosGAR: Hierarchical Relative Position-Aware Interaction Modeling for Weakly Supervised Skeleton-Based Group Activity Recognition".
 ![log](https://github.com/li-lindong/RelPosGAR/blob/main/Overall%20Framework.jpg)
 
+## Dataset
+Due to its large file size, please download the **CAE Dataset Skeleton Data** using the link below:
+
+* **Download Link:** [Baidu Netdisk](https://pan.baidu.com/s/1cuafJzICZVJYiy1lQ3gwcQ?pwd=jbx2)
+* **Extraction Code (pwd):** `jbx2`
+
+All other related data and files have already been uploaded directly to this repository.
+
 If you find our work or the codebase inspiring and useful to your research, please consider ⭐starring⭐ the repo and citing:
 ```bibtex
 @article{RelPosGAR,
