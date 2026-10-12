@@ -10,6 +10,9 @@ Due to its large file size, please download the **CAE Dataset Skeleton Data** us
 
 All other related data and files have already been uploaded directly to this repository.
 
+## Notes
+During normal training, remove the code that artificially generates ID-Switches.
+
 If you find our work or the codebase inspiring and useful to your research, please consider ⭐starring⭐ the repo and citing:
 ```bibtex
 @article{RelPosGAR,
